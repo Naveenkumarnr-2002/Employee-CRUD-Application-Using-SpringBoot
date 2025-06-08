@@ -2,9 +2,12 @@
 
 <h2>Employee Management</h2>
 
+<p>Building an Employee Management Application with Spring Boot, HTML, CSS and JS or Thymeleaf Framework.</p>
 <p>Backend Codes</p>
 
 <h3>Entity</h3>
+<p>Implement RESTful APIs to handle CRUD (Create, Read, Update, Delete) operations for employee data.</p>
+
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/63d62acc-8232-4ecd-adf8-0fe6bb3da3c3)
 
