@@ -1,4 +1,4 @@
-# MiniProject-1
+# Employee Management System
 
 <h2>Employee Management</h2>
 
