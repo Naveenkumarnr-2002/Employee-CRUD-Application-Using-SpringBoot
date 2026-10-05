@@ -9,7 +9,7 @@ services:
     environment:
       - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/employeemanagement
       - SPRING_DATASOURCE_USERNAME=root
-      - SPRING_DATASOURCE_PASSWORD=2002
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
 
   db:
     image: mysql:8
